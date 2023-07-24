@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Level2
+comment0.text=\n\ Write\ a\ description\ of\ class\ Level2\ here.\n\n\ @author\ Bijay\ Gautam\n\ @version\ 12/04/2022\n
+comment1.params=
+comment1.target=Level2()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Level2\n
+comment2.params=
+comment2.target=boolean\ dictionary()
+comment2.text=\n\ extracting\ dictionary\ \n
+comment3.params=
+comment3.target=void\ showWelcome()
+comment3.text=\n\ print\ welcome\ messages\n
+comment4.params=
+comment4.target=void\ scrambledWord()
+comment4.text=\n\ getting\ 5\ scrambled\ random\ word\ with\ spaces\ in\ between\ them\n
+comment5.params=
+comment5.target=java.lang.String\ getRandomWord()
+comment5.text=\n\ get\ a\ random\ word\ from\ dictionary\n\n
+comment6.params=
+comment6.target=java.lang.String\ getScrambledWords()
+comment6.text=\n\ scrambling\ the\ word\ \n
+comment7.params=
+comment7.target=java.lang.String[]\ userInput()
+comment7.text=\n\ getting\ input\ from\ user\ \n\ match\ input\ with\ game\ data\ to\ dedcide\ result\ \n
+numComments=8

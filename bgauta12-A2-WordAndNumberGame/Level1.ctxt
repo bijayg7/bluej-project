@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Level1
+comment0.text=\n\ Write\ a\ description\ of\ class\ Level1\ here.\n\n\ @author\ Bijay\ Gautam\n\ @version\ 12/04/2022\n
+comment1.params=
+comment1.target=Level1()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Level1\n
+comment2.params=
+comment2.target=boolean\ dictionary()
+comment2.text=\n\ importing\ dictionary\ from\ Game\ class\n\ return\ boolean\ true\n
+comment3.params=
+comment3.target=void\ showWelcome()
+comment3.text=\n\ displaying\ welcome\ text\ in\ level\ 1\n\n
+comment4.params=
+comment4.target=java.lang.String\ randomWord()
+comment4.text=\n\ selecting\ random\ word\ from\ the\ dictionary\n\ returns\ String\ selectedWord\n
+comment5.params=
+comment5.target=char[]\ letters()
+comment5.text=\n\ tokenizing\ the\ word\ \n\ returns\ char\ letters\n
+comment6.params=
+comment6.target=java.lang.String[]\ userInput()
+comment6.text=\n\ getting\ input\ from\ user\ \n\ match\ input\ with\ game\ data\ to\ dedcide\ result\ \n
+numComments=7
